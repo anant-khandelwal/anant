@@ -18,15 +18,15 @@
 
 - 📫 How to reach me **anantkhandelwal12@gmail.com**
 
-- ⚡ My interests and hobbies are [Listening to R&B and playing guitar](Listening to R&B and playing guitar)
+- 🎸 My interests and hobbies are **listening to R&B and playing guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anantkk37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anantkk37/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anant-khandelwal&show_icons=true&locale=en&layout=compact" alt="anant-khandelwal" /></p>
 
